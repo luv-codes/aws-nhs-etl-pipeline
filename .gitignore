@@ -1,1 +1,7 @@
-.DS_Store
+echo ".DS_Store
+.DS_Store?
+*.csv
+!sample_data/nhs_sample_100rows.csv
+__pycache__/
+*.pyc
+.env" > .gitignore
