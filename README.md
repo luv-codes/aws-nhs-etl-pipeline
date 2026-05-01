@@ -17,8 +17,7 @@ AWS Lambda (nhs-csv-pipeline-processor)
 S3 (Output Bucket) → summary_report.json
       ↓
 Amazon CloudWatch (Logging & Monitoring)
-      ↓
-SNS Alert (if readmission rate > 15%)
+
 
 ## 🛠️ Tech Stack
 
