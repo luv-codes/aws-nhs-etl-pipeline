@@ -27,10 +27,9 @@ SNS Alert (if readmission rate > 15%)
 | Amazon S3 | Input/output data storage |
 | AWS Lambda | Serverless compute & processing |
 | AWS IAM | Least-privilege security policies |
-| Amazon CloudWatch | Pipeline logging & monitoring |
+| Amazon CloudWatch | Logging & monitoring |
 | Boto3 | AWS SDK for Python |
 | Pandas | Data processing & analysis |
-| SNS | Automated threshold alerts |
 
 ## Data
 Full dataset not included due to size. 
